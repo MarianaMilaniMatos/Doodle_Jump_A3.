@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fundo.mp3-c8dcc71e0671699cac74c94453e88344.mp3str"
+
+[deps]
+
+source_file="res://sounds/fundo.mp3"
+dest_files=[ "res://.import/fundo.mp3-c8dcc71e0671699cac74c94453e88344.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
