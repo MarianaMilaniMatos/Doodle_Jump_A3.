@@ -1,8 +1,8 @@
 
-# 🕹️ Doodle Jump A3
+# 🕹️ Doodle Jump 
 
 ## 📖 Descrição
-**Doodle Jump A3** é um jogo de plataforma desenvolvido em **Godot Engine** inspirado no clássico **Doodle Jump**. O objetivo do jogador é controlar um personagem que pula de plataforma em plataforma, buscando alcançar a maior altura possível sem cair ou bater em obstáculos.
+**Doodle Jump ** é um jogo de plataforma desenvolvido em **Godot Engine** inspirado no clássico **Doodle Jump**. O objetivo do jogador é controlar um personagem que pula de plataforma em plataforma, buscando alcançar a maior altura possível sem cair ou bater em obstáculos.
 
 ## 🎮 Funcionalidades
 - **Plataformas de salto**: O jogador usa as plataformas para continuar subindo.
